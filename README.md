@@ -1,6 +1,6 @@
-Here’s a detailed `README.md` file for your project:  
 
-# Ask Out Your Crush App ❤️  
+
+# Ask Out on a Date 
 
 A fun and interactive web app to help you ask out your crush in a playful and memorable way! 🐱  
 
