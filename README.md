@@ -10,11 +10,6 @@ A fun and interactive web app to help you ask out your crush in a playful and me
 - **Dynamic Buttons**: A playful "No" button that moves around when hovered over!  
 - **Thank You Page**: Confirms your input with a simple thank-you page after submission.  
 
-## Demo  
-[Live Demo Link](#) (Add your live demo link here)  
-
----
-
 ## Table of Contents  
 1. [Technologies Used](#technologies-used)  
 2. [Setup and Installation](#setup-and-installation)  
